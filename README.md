@@ -90,22 +90,9 @@ The notebook (`Machine_learning.ipynb`) contains:
 
 ---
 
+
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://vanavaimani1984-heart-disease-ml-assignment.streamlit.app)
-
-### Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/vanavaimani1984/heart-disease-ml-assignment.git
-   cd heart-disease-ml-assignment
-   
- 2.Install dependencies:
- pip install -r requirements.txt
-
-3.Launch the app:
-streamlit run app.py
-
-4.Open the local URL (usually http://localhost:8501) in your browser.
 
 
