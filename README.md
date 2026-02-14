@@ -25,20 +25,14 @@
 ## 📂 Repository Structure
 heart-disease-ml-assignment/
 
-├── app.py                  # Streamlit app
-├── Machine_learning.ipynb  # Notebook with training & evaluation
-├── test_data.csv           # Sample test dataset
-├── requirements.txt        # Dependencies for Streamlit Cloud
-├── README.md               # Project documentation
 └── models/                 # Trained ML models
-├── logistic_regression.pkl
-├── decision_tree.pkl
-├── knn.pkl
-├── naive_bayes.pkl
-├── random_forest.pkl
-└── xgboost.pkl
+    ├── logistic_regression.pkl
+    ├── decision_tree.pkl
+    ├── knn.pkl
+    ├── naive_bayes.pkl
+    ├── random_forest.pkl
+    └── xgboost.pkl
 
----
 
 ## 🧪 Results Summary
 - **Best models**: Random Forest & XGBoost (~99% accuracy, AUC ~1.0)  
@@ -50,6 +44,7 @@ heart-disease-ml-assignment/
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://heart-disease-ml-assignment-meatzvtytsbuydbamvdt6h.streamlit.app/)
+
 
 
 
