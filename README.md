@@ -24,6 +24,7 @@
 
 ## 📂 Repository Structure
 heart-disease-ml-assignment/
+
 ├── app.py                  # Streamlit app
 ├── Machine_learning.ipynb  # Notebook with training & evaluation
 ├── test_data.csv           # Sample test dataset
@@ -49,6 +50,7 @@ heart-disease-ml-assignment/
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://heart-disease-ml-assignment-meatzvtytsbuydbamvdt6h.streamlit.app/)
+
 
 
 
