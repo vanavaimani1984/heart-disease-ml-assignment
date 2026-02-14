@@ -15,7 +15,7 @@
 
 
 ## Test Dataset
-- Quick download link: [test_data.csv](https://raw.githubusercontent.com/vanavaimani1984/Machine_learning/main/test_data.csv)
+- Quick download link: [test_data.csv](https://raw.githubusercontent.com/vanavaimani1984/heart-disease-ml-assignment/main/test_data.csv)
 
 
 ## Results Summary
@@ -60,7 +60,7 @@ heart-disease-ml-assignment/
 ## 📊 Dataset
 - Source: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)  
 - Only the **test dataset** (`test_data.csv`) is uploaded here, as per assignment requirement.  
-- Quick download link: [test_data.csv](https://raw.githubusercontent.com/vanavaimani1984/Machine_learning/main/test_data.csv)
+- Quick download link: [test_data.csv](https://raw.githubusercontent.com/vanavaimani1984/heart-disease-ml-assignment/main/test_data.csv)
 
 ---
 
@@ -94,5 +94,6 @@ The notebook (`Machine_learning.ipynb`) contains:
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://vanavaimani1984-heart-disease-ml-assignment.streamlit.app)
+
 
 
