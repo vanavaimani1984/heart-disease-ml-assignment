@@ -93,7 +93,8 @@ The notebook (`Machine_learning.ipynb`) contains:
 
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
-👉 Live App Link: [Heart Disease Prediction App](https://vanavaimani1984-heart-disease-ml-assignment.streamlit.app)
+👉 Live App Link: [Heart Disease Prediction App](https://heart-disease-ml-assignment-meatzvtytsbuydbamvdt6h.streamlit.app/)
+
 
 
 
