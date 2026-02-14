@@ -3,6 +3,7 @@ import pandas as pd
 
 st.title("Heart Disease ML Assignment Demo")
 
+# Correct raw GitHub link
 DATA_URL = "https://raw.githubusercontent.com/vanavaimani1984/heart-disease-ml-assignment/main/test_data.csv"
 df = pd.read_csv(DATA_URL)
 
