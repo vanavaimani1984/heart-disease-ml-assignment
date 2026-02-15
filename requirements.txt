@@ -3,3 +3,7 @@ xgboost
 streamlit
 joblib
 pandas
+numpy
+matplotlib
+seaborn
+
