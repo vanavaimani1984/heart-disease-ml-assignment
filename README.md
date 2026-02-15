@@ -57,17 +57,37 @@ heart-disease-ml-assignment/
     ├── random_forest.pkl
     └── xgboost.pkl
 
+  ## 🧪 Results Summary
+- **Best models**: Random Forest & XGBoost  
+  - Accuracy: ~98.5%  
+  - AUC: ~1.0  
+  - Precision/Recall/F1: Excellent balance, MCC ~0.97 → very robust and reliable  
 
-## 🧪 Results Summary
-- **Best models**: Random Forest & XGBoost (~99% accuracy, AUC ~1.0)  
-- Logistic Regression: ~85% CV accuracy, balanced baseline  
-- Naive Bayes: ~82% CV accuracy, strong recall  
-- KNN: ~75% CV accuracy, weaker performance  
-- Decision Tree: Overfitting (perfect CV accuracy)  
+- **Logistic Regression**  
+  - Accuracy: ~79.5%  
+  - AUC: ~0.88  
+  - Balanced baseline, decent recall, but weaker overall compared to ensemble methods  
+
+- **Naive Bayes**  
+  - Accuracy: ~80%  
+  - AUC: ~0.87  
+  - Strong recall (~0.89), useful for screening tasks, but lower precision  
+
+- **KNN**  
+  - Accuracy: ~83.4%  
+  - AUC: ~0.95  
+  - Good recall, but performance sensitive to neighbor choice; MCC ~0.67  
+
+- **Decision Tree**  
+  - Accuracy: ~98.5%  
+  - AUC: ~0.98  
+  - Very high test accuracy, but prone to overfitting (perfect precision, slightly lower recall)  
+
 
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://heart-disease-ml-assignment-meatzvtytsbuydbamvdt6h.streamlit.app/)
+
 
 
 
