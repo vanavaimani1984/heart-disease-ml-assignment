@@ -83,10 +83,15 @@ heart-disease-ml-assignment/
   - AUC: ~0.98  
   - Very high test accuracy, but prone to overfitting (perfect precision, slightly lower recall)  
 
+   ## 🖼️ Virtual Lab Proof
+The notebook was executed in **BITS Virtual Lab** for reproducibility.  
+
+![Virtual Lab Screenshot](bitslab_screenshot.JPG)
 
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://heart-disease-ml-assignment-meatzvtytsbuydbamvdt6h.streamlit.app/)
+
 
 
 
