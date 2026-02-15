@@ -17,15 +17,18 @@
 ## Test Dataset
 - Quick download link: [test_data.csv](https://raw.githubusercontent.com/vanavaimani1984/heart-disease-ml-assignment/main/test_data.csv)
 
-##**Comparison Table (Evaluation Metrics**)
-| Model              | Accuracy | AUC  | Precision | Recall | F1   | MCC   |
-|--------------------|----------|------|-----------|--------|------|-------|
-| Logistic Regression| ~85%     | ~0.85| Balanced  | Good   | ~0.85| Moderate |
-| Decision Tree      | 100% (CV)| ~1.0 | Overfit   | Overfit| ~1.0 | High but misleading |
-| KNN                | ~75%     | ~0.75| Lower     | Weak   | ~0.75| Low    |
-| Naive Bayes        | ~82%     | ~0.82| Moderate  | Strong | ~0.82| Moderate |
-| Random Forest      | ~99%     | ~1.0 | Excellent | Excellent| ~0.99| Very High |
-| XGBoost            | ~99%     | ~1.0 | Excellent | Excellent| ~0.99| Very High |
+
+## 📊 Comparison Table (Evaluation Metrics)
+
+| Model              | Accuracy | AUC     | Precision | Recall  | F1      | MCC     |
+|--------------------|----------|---------|-----------|---------|---------|---------|
+| Logistic Regression| 0.795122 | 0.878736| 0.756303  | 0.873786| 0.810811| 0.597255|
+| Decision Tree      | 0.985366 | 0.985437| 1.000000  | 0.970874| 0.985222| 0.971151|
+| KNN                | 0.834146 | 0.948553| 0.800000  | 0.893204| 0.844037| 0.672727|
+| Naive Bayes        | 0.800000 | 0.870550| 0.754098  | 0.893204| 0.817778| 0.610224|
+| Random Forest      | 0.985366 | 1.000000| 1.000000  | 0.970874| 0.985222| 0.971151|
+| XGBoost            | 0.985366 | 0.989435| 1.000000  | 0.970874| 0.985222| 0.971151|
+
 
 ##**Observations Table**
 
@@ -65,6 +68,7 @@ heart-disease-ml-assignment/
 ## 🌐 Streamlit Demo
 The app is deployed on **Streamlit Cloud**:  
 👉 Live App Link: [Heart Disease Prediction App](https://heart-disease-ml-assignment-meatzvtytsbuydbamvdt6h.streamlit.app/)
+
 
 
 
